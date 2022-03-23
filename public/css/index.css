@@ -1,0 +1,46 @@
+:root {
+    --line-yellow: url("data:image/svg+xml;charset=utf-8,%3Csvg preserveAspectRatio='none' width='120' height='6' viewBox='0 0 120 6' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M119 0.8C60 4 50-0.5 1 1.5' stroke='%233459e6' stroke-width='2' fill='none' stroke-linecap='round'/%3E%3C/svg%3E")
+}
+
+body {
+    background-color: #121212;
+}
+
+.wb-navbar-dark {
+    background-color: #121212;
+}
+
+.section-dark {
+    background-color: #181818;
+}
+
+.section-second-dark {
+    background-color: #242424;
+}
+
+.section-third-dark {
+    background-color: #181818;
+}
+
+.highlight {
+    color: inherit;
+    background: var(--line-yellow) bottom left/100% .3em no-repeat;
+    text-decoration: none;
+    padding-bottom: 0.3em;
+}
+
+.feature-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 4rem;
+    height: 4rem;
+    margin-bottom: 1rem;
+    font-size: 2rem;
+    color: #fff;
+    border-radius: .75rem;
+}
+
+.stats-card-dark {
+    background-color: #181818;
+}
