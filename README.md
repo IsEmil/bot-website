@@ -11,10 +11,6 @@
   <a href="">
     <img src="./assets/Main.png" width="100%"/>
   </a>
-  <!-- Drop Shadow -->
-  <a href="">
-    <img src="./assets/dropShadow.png" width="100%"/>
-  </a>
 </p>
 <br/>
 
